@@ -1,5 +1,3 @@
-
-
 public class Tmp {
     public static void switchMethod(String str){
         switch(str) {
@@ -18,3 +16,4 @@ public class Tmp {
         System.out.println(sb);
     }
 }
+
